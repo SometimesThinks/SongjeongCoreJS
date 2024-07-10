@@ -1,6 +1,6 @@
 # 송정 CoreJavaScript 스터디
 
-## 기간: 2024.07.10 ~ 2024.08.28(2024.08.14(수) 제외 총 7주, 매주 수요일)
+## 기간: 2024.07.10 ~ 2024.08.28(2024.08.14(수) 제외 총 7주, 매주 수요일 오후 8시)
 
 ## 교재: Core JavaScript([예제 코드](https://github.com/wikibook/corejs))
 
@@ -43,4 +43,4 @@
 
 ## 구성원
 
-[윤대영](https://github.com/SometimesThinks), 박범준, 정유진, 이상현, 손원륜
+[윤대영](https://github.com/SometimesThinks), [박범준](https://github.com/BigBeom), [정유진](https://github.com/Beomffett), [이상현](https://github.com/dltkdgus482), [손원륜](https://github.com/Rootn61)
